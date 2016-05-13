@@ -30,13 +30,13 @@ The below files are present in both "HW3_related" and "HW4_related" folders
 ----------------------------------------------------------------------------------------------------------------------------
 A table with the following columns and values for all 3 queries:
 
-Rank
-Document ID
-Document score
-Relevance level
-Precision
-Recall
-NDCG
+1. Rank
+2. Document ID
+3. Document score
+4. Relevance level
+5. Precision
+6. Recall
+7. NDCG
 
 "portable operating systems _12.txt"
 
